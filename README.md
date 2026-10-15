@@ -1,4 +1,4 @@
-# 📸 Shots by Ilan – Photography Portfolio Website
+# Photography Portfolio Website for Client
 
 **Live Site:** shotsbyilan.com
 
